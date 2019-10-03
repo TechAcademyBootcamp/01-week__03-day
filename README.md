@@ -1,1 +1,1 @@
-# 01-week__03-day
+# {tech}academy
